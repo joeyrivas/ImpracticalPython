@@ -1,1 +1,1 @@
-"# Impractical Python" 
+Impractical Python projects.

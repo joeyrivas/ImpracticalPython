@@ -80,7 +80,6 @@ def main():
             try_again = input('\n\nTry again? (Press Enter else "n" to quit)\n')
             if try_again.lower() == "n":
                 running = False
-                sys.exit()
             else:
                 main()
 
